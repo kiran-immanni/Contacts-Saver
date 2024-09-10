@@ -1,4 +1,4 @@
-# Contacts-Keeper
+# Contacts-Saver
 basic MERN stack contacts keeper web application
 
 # Config file (config.js)
